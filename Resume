@@ -1,0 +1,237 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<meta name="description" content= "Resume of Stefano Marchi - Systems Engineer and System Architect">
+<meta name="keywords" content= "Safety by Design, Systems Engineer, INCOSE, A-SPICE, ISO-26262, ISO-21434">
+
+<title> Stefano Marchi - Systems Engineer </title>
+
+<style>
+
+h2 { 
+font-family:  Arial,Helvetica,sans-serif;  font-size: 20px; font-weight: bold; line-height: 20px; 
+color: rgb(200, 200, 200);
+} 
+  
+h3 { 
+font-family: Arial,Helvetica,sans-serif; font-size: 16px; font-weight: bold; line-height: 16px; 
+color: rgb(200, 200, 200);
+} 
+
+body { 
+background-color: rgb(10, 10, 10);
+background-image: linear-gradient(to right, rgb(10,10,10), rgb(50,50,50)); 
+
+font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight:normal; line-height: 16px; 
+color: rgb(200, 200, 200);
+} 
+
+#Vision {
+  font-style: italic
+}
+
+</style>
+
+</head>
+
+<body>
+<p class="p1"><span class="s1"><strong>Stefano Marchi</strong></span></p>
+<p class="p1"><span class="s1">Birth Date/Place: 15.06.1972, Milan, Italy</span></p>
+<p class="p1"><span class="s1">Home Address: Buehlenstr. 59/1 71088 Holzgerlingen, Germany</span></p>
+<p class="p1"><span class="s1">Mobile: +49 0176 23686181</span></p>
+<p class="p1"><span class="s1">E-mail: stefano.marchi.i@gmail.com</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Key Capabilities:</strong></span></p>
+<p class="p3">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1"><em>Expertise in systems and software engineering, from concept to detail design</em></span></li>
+  <li class="li1"><span class="s1"><em>Knowledge of engineering reference models, standards and norms.</em></span></li>
+  <li class="li1"><span class="s1"><em>Experience in modelling systems and controls</em></span></li>
+  <li class="li1"><span class="s1"><em>Ability to design system and software software interfaces</em></span></li>
+  <li class="li1"><span class="s1"><em>Avid reader of patents and technical publications</em></span></li>
+</ul>
+<p class="p4">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Huber Automotive <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; </span>07.2019 - today</strong></span></p>
+<p class="p1"><span class="s1"><strong>System Engineer/Architect</strong></span></p>
+<p class="p1"><span class="s1">Stuttgart area, Germany</span></p>
+<p class="p5">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">System engineer and software architect for vehicle systems and control units</span></li>
+  <li class="li1"><span class="s1">Developed a comprehensive hazard analysis for a hybrid recreational vehicle with reference to VDA and NHTSA recommendations for traction battery and regenerative braking systems, redefining assumptions for the specific use cases and mission profiles. Designed the safety concept with focus on error modelling and failure propagation (STPA) among system, hardware and software components, with detailed reverse engineering of the safety mechanisms of the subsystems. Designed the safety mechanisms for the hybrid control unit with focus on multipoint failures and diagnostic coverage requirements. </span></li>
+  <li class="li1"><span class="s1">Designed the software architecture for a gateway control unit, with focus on consistency and completeness at the external and internal interfaces, according to the INCOSE framework. Refined software requirements for AUTOSAR basis software services.</span></li>
+</ul>
+<p class="p6">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Eberspaecher <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>01.2018 &ndash; 06.2019</strong></span></p>
+<p class="p1"><span class="s1"><strong>System Engineer/Architect</strong></span></p>
+<p class="p1"><span class="s1">Esslingen, Germany</span></p>
+<p class="p5">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">System engineer and technical project leader for a scalable platform for climate control units </span></li>
+  <li class="li1"><span class="s1">Redesigned the system architecture with the climate control team, improving performance and reducing material costs. </span></li>
+  <li class="li1"><span class="s1">Developed model-based requirements and verification criteria for actuators and sensors.</span></li>
+  <li class="li1"><span class="s1">Introduced a modular safety architecture that could satisfy both water- and air-based heater constraints.</span></li>
+  <li class="li1"><span class="s1">Managed and authored system and software requirements and the design review process ensuring A-SPICE compliance.</span></li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>DaVinci Engineering <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>05.2016 &ndash; 12.2017</strong></span></p>
+<p class="p1"><span class="s1"><strong>System Engineer / Architect</strong></span></p>
+<p class="p1"><span class="s1"><strong>Kromberg &amp; Schubert<br /></strong>Stuttgart, Germany</span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">System architect for fail-operational electrical distribution systems for hybrid vehicles.</span></li>
+  <li class="li1"><span class="s1">Led a team for the design of zonal distribution system, with focus on reliability and availability. Researched redundancy and adaptive safety mechanism for achieving the dependability goals.</span> <span class="s1">Technology scouting for hybrid capacitors for energy buffering, smart switches, bidirectional converters and microcontrollers.</span></li>
+  <li class="li1"><span class="s1">Research and coordination of multi-physics modelling, simulation and validation of battery management system for 48V distribution systems. </span></li>
+  <li class="li1"><span class="s1">Participation in a European research project for autonomous pods.</span></li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>DaVinci Engineering <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>07.2014 &ndash; 04.2016</strong></span></p>
+<p class="p1"><span class="s1"><strong>System Engineer / Architect</strong></span></p>
+<p class="p1"><span class="s1"><strong>Daimler<br /></strong>Stuttgart, Germany</span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Process re-engineering for the ECU programming and coding processes with special focus on software requirements and data architectures.</span></li>
+  <li class="li1"><span class="s1">Design of software interfaces and data model for event logs for the ECU programming and coding for over 300 control unit types.</span></li>
+  <li class="li1"><span class="s1">Deployed statistical methods for data discovery and introduced performance and availability metrics.</span></li>
+</ul>
+<p class="p4">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Texa<span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>01.2009 &ndash; 06.2014</strong></span></p>
+<p class="p1"><span class="s1"><strong>Product Development Manager</strong></span></p>
+<p class="p1"><span class="s1">Automotive Diagnostic solutions </span></p>
+<p class="p1"><span class="s1">Treviso, Italy</span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Product development manager for Repair and Maintenance Information for passenger cars and truck applications. Supported the launch of diagnostic and repair information for off-highway vehicles.</span></li>
+  <li class="li1"><span class="s1">Coordinated the development of a modular platform for the integration of electronic documentation in the diagnostic software, including wiring diagrams, technical bulletins and repair data.</span></li>
+  <li class="li1"><span class="s1">Introduced an ontology for the repair and maintenance information domain, improving quality and reusability.&nbsp;</span></li>
+  <li class="li1"><span class="s1">Supported a project for a diagnostic community based on Google search. </span></li>
+  <li class="li1"><span class="s1">Investigated infrared-technologies for preventive maintenance and under-hood thermal inspection, leading to patented technology.</span></li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Texa <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>01.2006 &ndash; 12.2008</strong></span></p>
+<p class="p1"><span class="s1"><strong>International Training Manager</strong></span></p>
+<p class="p1"><span class="s1">Automotive Diagnostic Solutions</span></p>
+<p class="p1"><span class="s1">Treviso, Italy</span></p>
+<p class="p7">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Instructor-led training on diagnostics and troubleshooting techniques for automotive systems.</span></li>
+  <li class="li1"><span class="s1">Developed training materials and training course contents.</span></li>
+  <li class="li1"><span class="s1">Led workshop on diagnostic tools and equipment for distributors and commercial partners. </span></li>
+  <li class="li1"><span class="s1">Led software demonstrations for distributors and technical partners.</span></li>
+</ul>
+<p class="p8">&nbsp;</p>
+<p class="p8">&nbsp;</p>
+<p class="p9"><span class="s1"><strong>Milan Polytechnic University <span class="Apple-converted-space">&nbsp; </span>01.2004 &ndash; 10.2005</strong></span></p>
+<p class="p1"><span class="s1"><strong>Research Fellow</strong></span></p>
+<p class="p1"><span class="s1">Electronics Department</span></p>
+<p class="p1"><span class="s1">Milan, Italy</span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Research Fellow for wireless sensor applications in cooperation with Torino Wireless. Research on technology and algorithms methods for mesh sensor networks.</span></li>
+  <li class="li1"><span class="s1">Research on circuit simulations, power electronics and electromagnetic compatibility.</span></li>
+  <li class="li1"><span class="s1">Research on artificial intelligence and particle swarm optimisation for circuit design.</span></li>
+  <li class="li1"><span class="s1">Publication of international papers on circuit and systems and electronics and attendance of international IEEE symposia. </span></li>
+</ul>
+<p class="p5">&nbsp;</p>
+<p class="p5">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Pirelli Eco Technology <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>03.2002 &ndash; 10.2003</strong></span></p>
+<p class="p1"><span class="s1"><strong>Business Development Manager</strong></span></p>
+<p class="p1"><span class="s1">Milan, Italy</span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <ul class="ul1">
+    <li class="li1"><span class="s1">Business Development Manager for environmental fuel for bus-fleets</span></li>
+  </ul>
+  <li class="li1"><span class="s1">PRC &ndash; Organised roadshows on eco-solutions at several municipal governments. Identified business prospects and leads. Finalised eco-fuel project within the framework of the Sino-Italian Cooperation.</span></li>
+  <ul class="ul1">
+    <li class="li1"><span class="s1">France, Switzerland - Joint venture and partnership for the production and marketing of eco-fuels. </span></li>
+  </ul>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>GEA Consulenti Associati <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; </span>03.2000 &ndash; 02.2002</strong></span></p>
+<p class="p1"><span class="s1"><strong>Management Consultant</strong></span></p>
+<p class="p1"><span class="s1">Milan, Italy</span></p>
+<p class="p10">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">System engineering &ndash; Concept design of vacuum insulated water heaters, in cooperation with IDEO, Massachusetts, US. </span></li>
+  <li class="li1"><span class="s1">Quantitative Logistics &ndash; Feasibility study for the consolidation of the district logistics for a mass market retailer.<span class="Apple-converted-space">&nbsp; </span>Post-merger logistic consolidation study for a leading company in the durables.</span></li>
+  <li class="li1"><span class="s1">Operations Research &ndash; Audited the operations of a leading group in the durables sector. Led an internal team for deploying inventory forecasting methods.</span></li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Robert Bosch <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>09.1999 &ndash; 02.2000</strong></span></p>
+<p class="p1"><span class="s1"><strong>Resident Engineer</strong></span></p>
+<p class="p1"><span class="s1">Milan, Italy</span></p>
+<p class="p11">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Resident Engineer for electronic injection systems for Iveco light-duty vehicles. Acted as a liaison between the project management and the system and software engineering teams.</span></li>
+  <li class="li1"><span class="s1">Attended courses on embedded electronics and system architectures for automotive applications. Acquired experience in mechanical and hydraulic modelling of injection and engine systems.</span></li>
+  <li class="li1"><span class="s1">Received intensive training in systems, diagnostics and controls for engine management and hands-on experience with engine test cells and in-vehicle testing.</span></li>
+</ul>
+<p class="p5">&nbsp;</p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Civil service <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>06.1997 &ndash; 04.1998</strong></span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Civil service at a prominent Cultural Centre in Milan, for fine arts, music and cultural events.</span></li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Milan Polytechnic, Italy <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; </span>09.1991 &ndash; 04.1998</strong></span></p>
+<p class="p1"><span class="s1"><strong>MS in Electrical Engineering</strong></span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1"> Specialisation in Research and Advanced Engineering Methodologies </span></li>
+  <li class="li1"><span class="s1"> Master Degree with Honours</span></li>
+  <li class="li1"><span class="s1"> Master thesis on Digital Signal Processing techniques for Power Electronics applications. </span></li>
+  <li class="li1"><span class="s1"> 3-years German course scholarship granted by Siemens </span></li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Milan Polytechnic, Italy <span class="Apple-converted-space">&nbsp; &nbsp; &nbsp; &nbsp; </span>09.2004 &ndash; 07.2005</strong></span></p>
+<p class="p1"><span class="s1"><strong>Teaching Assistant in Electrical and Electronics Engineering</strong></span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1"> Teaching Assistant for practicals and laboratories on Electrical and Electronics Engineering</span></li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p2">&nbsp;</p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Language Skills</strong></span></p>
+<p class="p2">&nbsp;</p>
+<p class="p12"><span class="s1"> &bull; <strong>English</strong>: fluent, proven technical writing skills</span></p>
+<p class="p12"><span class="s1"> &bull; <strong>German</strong>: fluent, spoken and written</span></p>
+<p class="p12"><span class="s1"> &bull; <strong>Italian</strong>: native speaker, proven technical writing skills</span></p>
+<p class="p5">&nbsp;</p>
+<p class="p5">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>Computer Science Skills</strong></span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Computational thinking skills</span></li>
+  <li class="li1"><span class="s1">Knowledge of higher mathematics and statistics </span></li>
+  <li class="li1"><span class="s1">Experience in digital signal processing and machine learning</span></li>
+  <li class="li1"><span class="s1">Programming languages and scripting skills (C, Python, R, VBA)</span></li>
+  <li class="li1"><span class="s1">Experience with databases programming and architectures</span></li>
+</ul>
+<p class="p5">&nbsp;</p>
+<p class="p1"><span class="s1"><strong>System and Software Engineering Skills</strong></span></p>
+<p class="p2">&nbsp;</p>
+<ul class="ul1">
+  <li class="li1"><span class="s1">Good understanding of system and software engineering and interface design methods (INCOSE)</span></li>
+  <li class="li1"><span class="s1">Experience with ISO26262 functional safety applications (ASIL-B/C/D) and reliability modelling (FIT)</span></li>
+  <li class="li1"><span class="s1">Experience with software improvement processes (A-SPICE)</span></li>
+  <li class="li1"><span class="s1">Experienced in SysML and UML design (Rhapsody)</span></li>
+  <li class="li1"><span class="s1">Experienced in requirement engineering tools (Polarion, Doors) and issue tracking systems (Jira)</span></li>
+  <li class="li1"><span class="s1">Expert in dynamic modelling of electrical, mechanical and thermal systems (Simulink, Matlab)</span></li>
+  <li class="li1"><span class="s1">Experienced in circuit modelling and simulations for electronic and electrical systems (LTSpice)</span></li>
+  <li class="li1"><span class="s1">Experience with data acquisition methods and automated testing (LabView, dSPACE)</span></li>
+  <li class="li1"><span class="s1">Experience with control system and actuator controls (Matlab, Simulink)</span></li>
+  <li class="li1"><span class="s1">Experience with multicore microcontrollers and SOCs.</span></li>
+  <li class="li1"><span class="s1">Experience with service-oriented architectures (AUTOSAR, OSEK)</span></li>
+  <li class="li1"><span class="s1">Knowledge of network analysers, application and calibration tools (CANoe, CANstress, INCA)</span></li>
+</ul>
+
+</body>
+</html>
